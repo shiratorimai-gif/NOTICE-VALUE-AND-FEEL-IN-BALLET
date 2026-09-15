@@ -1,5 +1,5 @@
 # ============================================================
-# 05. Within-domain item-profile analysis
+# 04. Within-domain item-profile analysis
 #
 # Prerequisite:
 #   Run 01_efa_item_selection_and_diagnostics.R first so that
