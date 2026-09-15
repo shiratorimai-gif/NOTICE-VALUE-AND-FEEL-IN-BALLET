@@ -1,5 +1,5 @@
 # ============================================================
-# 04. Domain score comparisons: 2 x 3 ANOVA
+# 03. Domain score comparisons: 2 x 3 ANOVA
 #
 # Prerequisite:
 #   Run 01_efa_item_selection_and_diagnostics.R first so that
